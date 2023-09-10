@@ -1,0 +1,12 @@
+{
+    "text": [
+        [
+            "on_death_explosion_name",
+            "Reactor Detonation"
+        ],
+        [
+            "on_death_explosion_description",
+            "When this ship is destroyed, damage will be inflicted on all surrounding units."
+        ]
+    ]
+}

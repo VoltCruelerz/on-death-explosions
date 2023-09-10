@@ -1,0 +1,8 @@
+{
+    "ids": [
+        "on_death_explosion_frigate",
+        "on_death_explosion_cruiser",
+        "on_death_explosion_capital",
+        "on_death_explosion_titan"
+    ]
+}

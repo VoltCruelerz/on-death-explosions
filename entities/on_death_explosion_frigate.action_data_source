@@ -1,0 +1,29 @@
+{
+    "version": 0,
+    "action_values": [
+        {
+            "action_value_id": "radius_value",
+            "action_value": {
+                "values": [
+                    1000
+                ]
+            }
+        },
+        {
+            "action_value_id": "aoe_penetration_value",
+            "action_value": {
+                "values": [
+                    20
+                ]
+            }
+        },
+        {
+            "action_value_id": "splash_damage_value",
+            "action_value": {
+                "values": [
+                    200
+                ]
+            }
+        }
+    ]
+}
