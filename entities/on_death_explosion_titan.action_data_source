@@ -1,5 +1,25 @@
 {
     "version": 0,
+    "target_filters": [
+        {
+            "target_filter_id": "splash_damage_target_filter",
+            "target_filter": {
+                "unit_types": [
+                    "capital_ship",
+                    "corvette",
+                    "frigate",
+                    "starbase",
+                    "strikecraft",
+                    "structure",
+                    "titan"
+                ],
+                "ownerships": [
+                    "enemy",
+                    "friendly"
+                ]
+            }
+        }
+    ],
     "action_values": [
         {
             "action_value_id": "radius_value",

@@ -15,6 +15,15 @@
                         },
                         "include_radius_origin_unit": false,
                         "radius_value": "radius_value",
+                        "operators_constraint":
+                        {
+                            "constraint_type": "unit_passes_target_filter",
+                            "unit":
+                            {
+                                "unit_type": "operand_destination"
+                            },
+                            "target_filter_id": "splash_damage_target_filter"
+                        },
                         "operators": [
                             {
                                 "operator_type": "apply_damage",
